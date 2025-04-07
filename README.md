@@ -1,7 +1,8 @@
 # 🧩 MTS (Modular Test System) – Card Template
 
-A modular KiCad project for a Modular Test System (MTS) interface card.  
-Includes the full layout, schematic, configuration files, and zipped Gerber files ready for manufacturing.
+The **Modular Test System – Card Template** provides a base design for plug-in boards that slide into a standard **3U 42TE rack**.  
+These boards interface with a central **backplane**, enabling power distribution and inter-module communication.  
+Perfect for rapid development of sensor, signal, communication, or analog cards — with a clean KiCad layout ready to extend.
 
 ---
 
