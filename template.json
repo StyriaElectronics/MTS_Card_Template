@@ -1,0 +1,9 @@
+template.json {
+  "name": "MTS Card Template",
+  "description": "Ein Template für MTS-kompatible Karten mit Standard-Footprints.",
+  "version": "1.0",
+  "author": "András Nagy",
+  "keywords": ["MTS", "Template", "CPU-Board"],
+  "type": "project",
+  "kicad_version": "9.0"
+}
