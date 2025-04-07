@@ -5,6 +5,15 @@ Includes the full layout, schematic, configuration files, and zipped Gerber file
 
 ---
 
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey.svg)
+![Made with KiCad](https://img.shields.io/badge/Made%20with-KiCad-005cad?logo=kicad)
+![Repo size](https://img.shields.io/github/repo-size/StyriaElectronics/MTS_Card_Template)
+![Last Commit](https://img.shields.io/github/last-commit/StyriaElectronics/MTS_Card_Template)
+![Issues](https://img.shields.io/github/issues/StyriaElectronics/MTS_Card_Template)
+![Pull Requests](https://img.shields.io/github/issues-pr/StyriaElectronics/MTS_Card_Template)
+![Stars](https://img.shields.io/github/stars/StyriaElectronics/MTS_Card_Template?style=social)
+---
+
 ## 📦 Project Contents
 
 - `.kicad_pro` – Project file
