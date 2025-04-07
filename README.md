@@ -1,4 +1,4 @@
-# 🧩 Mutualeres Test System – Card Template
+# 🧩 Modular Test System – Card Template
 
 A modular KiCad project for a Modular Test System (MTS) interface card.  
 Includes the full layout, schematic, configuration files, and zipped Gerber files ready for manufacturing.
