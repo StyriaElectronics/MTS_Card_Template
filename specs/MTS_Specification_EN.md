@@ -1,7 +1,7 @@
 # 📘 MTS – Modular Test System: Specification
 
 **Version:** 1.0  
-**Author:** Styria Electronics  
+**Author:** András Nagy  
 **License:** CC BY-NC 4.0  
 **Date:** 07.04.2025  
 
