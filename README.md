@@ -43,6 +43,13 @@ open MTS_Card_Template.kicad_pro
 
 ---
 
+## 📘 MTS System – Technical Specification
+
+- 📄 [🇩🇪 Deutsch – MTS_Specification.md](specs/MTS_Specification.md)  
+- 📄 [🇬🇧 English – MTS_Specification_EN.md](specs/MTS_Specification_EN.md)
+
+---
+
 ## 🧪 Export Gerber Files
 
 To export new Gerber files from KiCad:
