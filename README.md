@@ -74,6 +74,9 @@ Author: **Styria Electronics András Nagy**
 Website: [styria-electronics](https://styria-electronics.at)
 
 ---
+## ⚠️ Disclaimer
+This project is provided "as is" without warranty of any kind, either expressed or implied.  
+In no event shall the author(s) be liable for any claim, damages, or other liability arising from, out of, or in connection with the use or other dealings in this project.
 
 ## 🤝 Contributing
 
